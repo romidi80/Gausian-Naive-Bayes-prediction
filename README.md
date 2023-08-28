@@ -6,7 +6,7 @@ This GitHub repository contains an implementation of the Naive Bayes classificat
 ## Dataset Overview
 The Iris dataset is a widely used dataset in machine learning and pattern recognition. It consists of 150 samples from three different species of Iris flowers: Iris setosa, Iris versicolor, and Iris virginica. Each sample has four features: sepal length, sepal width, petal length, and petal width.
 
-### Approaches
+## Approaches
 Traditional Naive Bayes
 In this approach, we implement the standard Naive Bayes algorithm from scratch. We assume that the features are independent given the class labels and calculate the posterior probability of each class for a given set of features.
 

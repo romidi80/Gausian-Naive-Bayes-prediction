@@ -1,4 +1,4 @@
-# Gausian-Naive-Bayes-prediction
+# Iris Dataset Label Prediction using Naive Bayes
 Using naïve Bayes method to predict labels in Iris dataset
 
 This GitHub repository contains an implementation of the Naive Bayes classification algorithm for predicting labels of the famous Iris dataset. The project explores three different approaches: the traditional Naive Bayes, the Naive Bayes implemented using a custom library, and an optimized version of Naive Bayes. The main goal is to compare and contrast the performance of these approaches in label prediction on the Iris dataset.
